@@ -3,7 +3,7 @@
 - I’m currently learning Language **JavaScript**
 
 <div align="center">
-<h4>Language</h4>
+<h2>Language</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,html,css&theme=light)](https://skillicons.dev)</p>
 
@@ -11,7 +11,7 @@
 
 <p align="center">
 
-<h4 align="center">Academic & Research Profiles</h4>
+<h2 align="center">Academic & Research Profiles</h2>
 <p align="center">
   <a href="https://scholar.google.com/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" width="60"/>
@@ -32,7 +32,7 @@
 
 <div align="center">
 
-#### © Artificial Intelligence
+## Artificial Intelligence
 
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=Cursor&logoColor=white"/>
@@ -46,7 +46,7 @@
 
 <div align="center">
 
-#### © Education
+## Education
 
 <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
 <img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white"/>
@@ -56,7 +56,7 @@
 
 
 <div align="center">
-<h4>My Github Static</h4>
+<h2>My Github Static</h2>
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Handika-cmd&layout=donut&langs_count=4&theme=gruvbox)](https://github-stats-extended.vercel.app/api/top-langs?username=Handika-cmd&layout=donut&langs_count=4&theme=gruvbox&locale=id)
 
