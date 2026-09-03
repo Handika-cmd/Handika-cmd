@@ -1,21 +1,39 @@
-
 ![Handika](img/Handika.png)
 
 - I’m currently learning Language **JavaScript**
 
-#### © language
-[![My Skills](https://skillicons.dev/icons?i=javascript,html,css&theme=light)](https://skillicons.dev)
+<div align="center">
+<h4>Language</h4>
 
-#### © Academic & Research
-<img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+[![My Skills](https://skillicons.dev/icons?i=javascript,html,css&theme=light)](https://skillicons.dev)</p>
 
-<img src="https://img.shields.io/badge/Mendeley-9D1620?style=for-the-badge&logo=mendeley&logoColor=white"/>
+</div></br>
 
-<img src="https://img.shields.io/badge/Semantic%20Scholar-1857B6?style=for-the-badge&logo=semanticscholar&logoColor=white"/>
+<p align="center">
 
-<img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
+<h4 align="center">Academic & Research Profiles</h4>
+<p align="center">
+  <a href="https://scholar.google.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" width="60"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.mendeley.com/">
+    <img src="https://imgs.search.brave.com/kD1W3abNE4JuNUGv4KvSJkco9FpbADje_Cnxessck-o/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zY29s/YXJ5LmNvbS9pbWFn/ZXMvdG9vbHMvc2Vt/YW50aWMtc2Nob2xh/ci9pY29uLnN2Zw" alt="Semantic Scholar" width="60"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.semanticscholar.org/">
+    <img src="https://imgs.search.brave.com/1yedi56PTU9mGK1npAwGrBuiSFzcrK6jzM7PRK4FV1E/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWcu/ZmF2cG5nLmNvbS8y/MC84LzEvbWVuZGVs/ZXktbG9nby1jb21w/dXRlci1zb2Z0d2Fy/ZS1yZWZlcmVuY2Ut/bWFuYWdlbWVudC1z/b2Z0d2FyZS1jbGlw/LWFydC1wbmctZmF2/cG5nLVRrZ0V0Sk4x/NHk4U1NYSFV2QnQ1/Y1A3aGkuanBn" alt="Mendeley" width="60"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.researchrabbitapp.com/">
+    <img src="https://researchrabbitapp.com/favicon.ico" alt="Research Rabbit" width="60"/>
+  </a>
+</p></br>
+
+<div align="center">
 
 #### © Artificial Intelligence
+
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=Cursor&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
@@ -23,12 +41,23 @@
 <img src="https://img.shields.io/badge/notebooklm-000000?style=for-the-badge&logo=notebooklm&logoColor=white"/>
 <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white"/>
 
+</div></br>
+
+
+<div align="center">
+
 #### © Education
 
 <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
 <img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white"/>
 <img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white"/>
 
-###### My Github Stats
+</div></br></br>
+
+
+<div align="center">
+<h4>My Github Static</h4>
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Handika-cmd&layout=donut&langs_count=4&theme=gruvbox)](https://github-stats-extended.vercel.app/api/top-langs?username=Handika-cmd&layout=donut&langs_count=4&theme=gruvbox&locale=id)
+
+</div>
