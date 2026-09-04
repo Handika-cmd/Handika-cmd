@@ -58,6 +58,6 @@
 <div align="center">
 <h2>My Github Static</h2>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Handika-cmd&layout=donut&langs_count=4&theme=gruvbox)](https://github-stats-extended.vercel.app/api/top-langs?username=Handika-cmd&layout=donut&langs_count=4&theme=gruvbox&locale=id)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Handika-cmd&rank_icon=percentile&custom_title=Handika%20Saputra&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=gruvbox_light)](https://github-stats-extended.vercel.app/api?username=Handika-cmd&rank_icon=percentile&custom_title=Handika%20Saputra&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=gruvbox_light)
 
 </div>
