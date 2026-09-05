@@ -56,7 +56,7 @@
 
 
 <div align="center">
-<h2>My Github Statict</h2>
+<h2>My Github Stats</h2>
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Handika-cmd&show_icons=true)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Handika-cmd)
