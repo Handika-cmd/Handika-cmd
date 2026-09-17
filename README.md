@@ -54,10 +54,25 @@
 
 </div></br></br>
 
+<div align="center">
+<h2>Basic certification</h2>
+
+| Nama Sertifikat                                                     | Penerbit                            | Link Verifikasi                                                                                   | Preview |
+|---------------------------------------------------------------------|-------------------------------------|---------------------------------------------------------------------------------------------------|---------|
+| **Dasar Pemrograman Web**                                           | Dicoding                            | [Verifikasi](https://www.dicoding.com/certificates/07Z6QL07MZQR)                                  |     <img src="img/Dicoding2.png" width="70">    |
+| **Introduction to Financial Literac**                               | Dicoding                            | [Verifikasi](dicoding.com/certificates/RVZKM6KOOXD5)                                              |      <img src="img/Dicoding1.png" width="70">   |
+| **Strategi Pengembangan Diri**                                      | Dicoding                            | [Verifikasi](dicoding.com/certificates/JLX1KGR3JP72)                                              |   <img src="img/Dicoding.png" width="70">      |
+| **Fundamental of Assistant Web Developer - Nasional 2026**          | Pusat Pengembangan Talenta Digital  | [Verfikasi](https://digitalent.komdigi.go.id/cek-sertifikat#)  Nomor Sertifikat: 21211988840-8165 |   <img src="img/sertifikat1.png" width="70">      |
+| **Introduction to Cyber Security and Career Awareness Micro Skill** | Pusat Pengembangan Literasi Digital | [Verifikasi](https://digitalent.komdigi.go.id/cek-sertifikat?registrasi=2299734850-29103)         |     <img src="img/Sertifikat.png" width="70">    |
+| **Intro to Programming**                                            | Kaggle                              | [Verifikasi](https://www.kaggle.com/learn/certification/handikaaaputra/intro-to-programming)      |    <img src="img/Handika Saputra - Intro to Programming(1).png" width="70">     |
+| **Python**                                                          | Kaggle                              | [Verifikasi](https://www.kaggle.com/learn/certification/handikaaaputra/python)                    |      <img src="img/Handika Saputra - Python(1).png" width="70">   |
+</div><br></br>
 
 <div align="center">
-<h2>My Github Static</h2>
+<h2>My Github Stats</h2>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Handika-cmd&layout=donut&langs_count=4&theme=gruvbox)](https://github-stats-extended.vercel.app/api/top-langs?username=Handika-cmd&layout=donut&langs_count=4&theme=gruvbox&locale=id)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Handika-cmd&show_icons=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Handika-cmd)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Handika-cmd&layout=compact)
 
 </div>
