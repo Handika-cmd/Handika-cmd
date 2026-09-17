@@ -3,7 +3,7 @@
 - I’m currently learning Language **JavaScript**
 
 <div align="center">
-<h2>Language</h2>
+<h2>Language and tools</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,html,css&theme=light)](https://skillicons.dev)</p>
 
@@ -74,5 +74,6 @@
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Handika-cmd&show_icons=true)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Handika-cmd)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Handika-cmd&layout=compact)
+[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Handika-cmd&theme=default)](https://github.com/Handika-cmd)
 
 </div>
