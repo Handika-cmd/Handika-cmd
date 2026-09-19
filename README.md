@@ -74,6 +74,5 @@
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Handika-cmd&show_icons=true)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Handika-cmd)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Handika-cmd&layout=compact)
-[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Handika-cmd&theme=default)](https://github.com/Handika-cmd)
 
 </div>
