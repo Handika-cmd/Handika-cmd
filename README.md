@@ -75,4 +75,6 @@
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Handika-cmd)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Handika-cmd&layout=compact)
 
+![Jumlah Pengunjung](https://komarev.com)
+
 </div>
