@@ -75,7 +75,7 @@
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Handika-cmd)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Handika-cmd&layout=compact)
 
-![Jumlah Pengunjung](https://fnkr.net)
+![Jumlah Pengunjung](https://fnkr.net/?Handika-cmd)
 
 <p align="left">
   <img src="https://vercel.app" alt="Statistik GitHub Handika" height="150" />
