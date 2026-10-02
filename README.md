@@ -3,9 +3,9 @@
 - I’m currently learning Language **JavaScript**
 
 <div align="center">
-<h2>Language</h2>
+<h2>Language and tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,html,css&theme=light)](https://skillicons.dev)</p>
+[![My Skills](https://skillicons.dev/icons?i=git,javascript,html,css,tailwind&theme=light)](https://skillicons.dev)</p>
 
 </div></br>
 
