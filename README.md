@@ -1,4 +1,4 @@
-![Handika](img/Handika.png)
+![Handika](img/banner.png)
 
 - I’m currently learning Language **JavaScript**
 
